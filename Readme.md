@@ -1,7 +1,7 @@
 # **Портфолио**
 ## **Шевченко Наталья** ##
+<img src="https://github.com/NNSch/portfolio/assets/132885593/71fe2465-c1dc-42d4-825a-1f960d644261" width="110" height="120" /> 
 
-![фото](C:\Users\ПК\Pictures\ИЗОБРАЖЕНИЯ\портрет)
 ## *Контактные данные*
 - тел. +7 (905) 718-54-79
 - email: ledidile@rambler.ru
@@ -68,7 +68,7 @@
 
 ---
 ## **Свидетельства** ##
+![1](https://github.com/NNSch/portfolio/assets/132885593/41c4b75e-a7f7-4751-94f3-7f0c335b746f)
 
-![1](C:\Users\ПК\Desktop\интересы\инженер контроля качества\документы)
+![2](https://github.com/NNSch/portfolio/assets/132885593/105e30c8-51c6-4e04-ae82-74688d001d71)
 
-![2](C:\Users\ПК\Desktop\интересы\инженер контроля качества\документы)
