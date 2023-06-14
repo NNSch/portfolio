@@ -1,4 +1,3 @@
-# **Портфолио**
 ## **Шевченко Наталья** ##
 <img src="https://github.com/NNSch/portfolio/assets/132885593/71fe2465-c1dc-42d4-825a-1f960d644261" width="110" height="120" /> 
 
